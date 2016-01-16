@@ -1,2 +1,2 @@
 # GitIntro
-1. Farhat Khan
+Farhat Khan
